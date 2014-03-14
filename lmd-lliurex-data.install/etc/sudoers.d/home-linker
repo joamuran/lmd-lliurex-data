@@ -1,0 +1,1 @@
+ALL ALL=(ALL) NOPASSWD: /etc/lightdm/PreSession.d/home-linker
